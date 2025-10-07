@@ -1,6 +1,7 @@
 # some_random_anr_meta_analysis
 some random analysis on netrunner mainly for personal interest
-analysised all tournaments with enough claims with decklists from release of elevation to the release of 2510 banlist
+
+Includedvc all tournaments with enough claims with decklists from the release of elevation to the release of 2510 banlist
 
 ## Data Source
 [AlwaysBeRunning.net](https://alwaysberunning.net/)
