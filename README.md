@@ -2,7 +2,8 @@
 some random analysis on netrunner mainly for personal interest
 analysised all tournaments with enough claims with decklists from release of elevation to the release of 2510 banlist
 
-## Data Source[AlwaysBeRunning.net](https://alwaysberunning.net/)
+## Data Source
+[AlwaysBeRunning.net](https://alwaysberunning.net/)
 [NetrunnerDB](https://netrunnerdb.com/)
 
 **Preliminary Findings:**
