@@ -10,3 +10,8 @@ Included all tournaments with enough claims with decklists from the release of e
 **Preliminary Findings:**
 People do enjoy playing with Thunderbolt Armaments 
 ![corp identity popularity](images/corp_identity_popularity.png)
+divided au.co and ob decks pre2508banlists by what they are actually playing, hopefully
+![Auco_breakdown](images\Au_Co_archetype_popularity.png)
+![Ob_breakdown](images\ob_archetype_popularity.png)
+
+
